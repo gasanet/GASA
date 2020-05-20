@@ -1,0 +1,10 @@
+video/train/Mangrove_Cuckoo/t60AKM7bi6Y_00336.jpg 31
+video/train/Mangrove_Cuckoo/t60AKM7bi6Y_01104.jpg 31
+video/train/Mangrove_Cuckoo/t60AKM7bi6Y_00096.jpg 31
+video/train/Mangrove_Cuckoo/t60AKM7bi6Y_01152.jpg 31
+video/train/Mangrove_Cuckoo/t60AKM7bi6Y_01056.jpg 31
+video/train/Mangrove_Cuckoo/t60AKM7bi6Y_00048.jpg 31
+video/train/Mangrove_Cuckoo/t60AKM7bi6Y_00288.jpg 31
+video/train/Mangrove_Cuckoo/t60AKM7bi6Y_00816.jpg 31
+video/train/Mangrove_Cuckoo/t60AKM7bi6Y_00000.jpg 31
+video/train/Mangrove_Cuckoo/t60AKM7bi6Y_00720.jpg 31

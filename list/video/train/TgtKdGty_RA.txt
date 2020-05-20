@@ -1,0 +1,15 @@
+video/train/Clark_Nutcracker/TgtKdGty_RA_00690.jpg 92
+video/train/Clark_Nutcracker/TgtKdGty_RA_00360.jpg 92
+video/train/Clark_Nutcracker/TgtKdGty_RA_00540.jpg 92
+video/train/Clark_Nutcracker/TgtKdGty_RA_00480.jpg 92
+video/train/Clark_Nutcracker/TgtKdGty_RA_00300.jpg 92
+video/train/Clark_Nutcracker/TgtKdGty_RA_00420.jpg 92
+video/train/Clark_Nutcracker/TgtKdGty_RA_00510.jpg 92
+video/train/Clark_Nutcracker/TgtKdGty_RA_00330.jpg 92
+video/train/Clark_Nutcracker/TgtKdGty_RA_00720.jpg 92
+video/train/Clark_Nutcracker/TgtKdGty_RA_00000.jpg 92
+video/train/Clark_Nutcracker/TgtKdGty_RA_00390.jpg 92
+video/train/Clark_Nutcracker/TgtKdGty_RA_00450.jpg 92
+video/train/Clark_Nutcracker/TgtKdGty_RA_00030.jpg 92
+video/train/Clark_Nutcracker/TgtKdGty_RA_00570.jpg 92
+video/train/Clark_Nutcracker/TgtKdGty_RA_00660.jpg 92

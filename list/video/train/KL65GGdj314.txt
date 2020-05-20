@@ -1,0 +1,17 @@
+video/train/Orchard_Oriole/KL65GGdj314_00272.jpg 96
+video/train/Orchard_Oriole/KL65GGdj314_00068.jpg 96
+video/train/Orchard_Oriole/KL65GGdj314_00391.jpg 96
+video/train/Orchard_Oriole/KL65GGdj314_00187.jpg 96
+video/train/Orchard_Oriole/KL65GGdj314_00255.jpg 96
+video/train/Orchard_Oriole/KL65GGdj314_00374.jpg 96
+video/train/Orchard_Oriole/KL65GGdj314_00102.jpg 96
+video/train/Orchard_Oriole/KL65GGdj314_00340.jpg 96
+video/train/Orchard_Oriole/KL65GGdj314_00357.jpg 96
+video/train/Orchard_Oriole/KL65GGdj314_00238.jpg 96
+video/train/Orchard_Oriole/KL65GGdj314_00408.jpg 96
+video/train/Orchard_Oriole/KL65GGdj314_00153.jpg 96
+video/train/Orchard_Oriole/KL65GGdj314_00000.jpg 96
+video/train/Orchard_Oriole/KL65GGdj314_00204.jpg 96
+video/train/Orchard_Oriole/KL65GGdj314_00017.jpg 96
+video/train/Orchard_Oriole/KL65GGdj314_00034.jpg 96
+video/train/Orchard_Oriole/KL65GGdj314_00323.jpg 96

@@ -1,0 +1,17 @@
+video/train/Common_Tern/Skt82NNXlWI_00396.jpg 143
+video/train/Common_Tern/Skt82NNXlWI_00108.jpg 143
+video/train/Common_Tern/Skt82NNXlWI_00432.jpg 143
+video/train/Common_Tern/Skt82NNXlWI_00504.jpg 143
+video/train/Common_Tern/Skt82NNXlWI_00324.jpg 143
+video/train/Common_Tern/Skt82NNXlWI_00000.jpg 143
+video/train/Common_Tern/Skt82NNXlWI_00180.jpg 143
+video/train/Common_Tern/Skt82NNXlWI_00540.jpg 143
+video/train/Common_Tern/Skt82NNXlWI_00072.jpg 143
+video/train/Common_Tern/Skt82NNXlWI_00216.jpg 143
+video/train/Common_Tern/Skt82NNXlWI_00288.jpg 143
+video/train/Common_Tern/Skt82NNXlWI_00036.jpg 143
+video/train/Common_Tern/Skt82NNXlWI_00360.jpg 143
+video/train/Common_Tern/Skt82NNXlWI_00252.jpg 143
+video/train/Common_Tern/Skt82NNXlWI_00144.jpg 143
+video/train/Common_Tern/Skt82NNXlWI_00468.jpg 143
+video/train/Common_Tern/Skt82NNXlWI_00864.jpg 143

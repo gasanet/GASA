@@ -1,0 +1,8 @@
+video/test/Artic_Tern/JSTxeKzHINs_00000.jpg 140
+video/test/Artic_Tern/JSTxeKzHINs_03015.jpg 140
+video/test/Artic_Tern/JSTxeKzHINs_00603.jpg 140
+video/test/Artic_Tern/JSTxeKzHINs_02613.jpg 140
+video/test/Artic_Tern/JSTxeKzHINs_00201.jpg 140
+video/test/Artic_Tern/JSTxeKzHINs_00402.jpg 140
+video/test/Artic_Tern/JSTxeKzHINs_04221.jpg 140
+video/test/Artic_Tern/JSTxeKzHINs_00804.jpg 140

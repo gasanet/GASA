@@ -1,0 +1,5 @@
+video/test/Frigatebird/6gw1vqaSl34_00025.jpg 43
+video/test/Frigatebird/6gw1vqaSl34_00050.jpg 43
+video/test/Frigatebird/6gw1vqaSl34_00600.jpg 43
+video/test/Frigatebird/6gw1vqaSl34_00100.jpg 43
+video/test/Frigatebird/6gw1vqaSl34_00075.jpg 43

@@ -1,0 +1,5 @@
+video/test/Tropical_Kingbird/0YeQMyr_G3M_00646.jpg 76
+video/test/Tropical_Kingbird/0YeQMyr_G3M_00798.jpg 76
+video/test/Tropical_Kingbird/0YeQMyr_G3M_00874.jpg 76
+video/test/Tropical_Kingbird/0YeQMyr_G3M_00418.jpg 76
+video/test/Tropical_Kingbird/0YeQMyr_G3M_00912.jpg 76

@@ -1,0 +1,10 @@
+video/train/Horned_Grebe/65CZPPgriLI_01464.jpg 50
+video/train/Horned_Grebe/65CZPPgriLI_00915.jpg 50
+video/train/Horned_Grebe/65CZPPgriLI_01098.jpg 50
+video/train/Horned_Grebe/65CZPPgriLI_03660.jpg 50
+video/train/Horned_Grebe/65CZPPgriLI_04392.jpg 50
+video/train/Horned_Grebe/65CZPPgriLI_03477.jpg 50
+video/train/Horned_Grebe/65CZPPgriLI_02745.jpg 50
+video/train/Horned_Grebe/65CZPPgriLI_00549.jpg 50
+video/train/Horned_Grebe/65CZPPgriLI_02928.jpg 50
+video/train/Horned_Grebe/65CZPPgriLI_00732.jpg 50

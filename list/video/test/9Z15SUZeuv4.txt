@@ -1,0 +1,16 @@
+video/test/Herring_Gull/9Z15SUZeuv4_00056.jpg 61
+video/test/Herring_Gull/9Z15SUZeuv4_00504.jpg 61
+video/test/Herring_Gull/9Z15SUZeuv4_00728.jpg 61
+video/test/Herring_Gull/9Z15SUZeuv4_00616.jpg 61
+video/test/Herring_Gull/9Z15SUZeuv4_00448.jpg 61
+video/test/Herring_Gull/9Z15SUZeuv4_00840.jpg 61
+video/test/Herring_Gull/9Z15SUZeuv4_00000.jpg 61
+video/test/Herring_Gull/9Z15SUZeuv4_00112.jpg 61
+video/test/Herring_Gull/9Z15SUZeuv4_00560.jpg 61
+video/test/Herring_Gull/9Z15SUZeuv4_00672.jpg 61
+video/test/Herring_Gull/9Z15SUZeuv4_00280.jpg 61
+video/test/Herring_Gull/9Z15SUZeuv4_00168.jpg 61
+video/test/Herring_Gull/9Z15SUZeuv4_00784.jpg 61
+video/test/Herring_Gull/9Z15SUZeuv4_00336.jpg 61
+video/test/Herring_Gull/9Z15SUZeuv4_00224.jpg 61
+video/test/Herring_Gull/9Z15SUZeuv4_00392.jpg 61

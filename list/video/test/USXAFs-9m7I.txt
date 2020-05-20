@@ -1,0 +1,12 @@
+video/test/Frigatebird/USXAFs-9m7I_00784.jpg 43
+video/test/Frigatebird/USXAFs-9m7I_01029.jpg 43
+video/test/Frigatebird/USXAFs-9m7I_00882.jpg 43
+video/test/Frigatebird/USXAFs-9m7I_00637.jpg 43
+video/test/Frigatebird/USXAFs-9m7I_01078.jpg 43
+video/test/Frigatebird/USXAFs-9m7I_00735.jpg 43
+video/test/Frigatebird/USXAFs-9m7I_00049.jpg 43
+video/test/Frigatebird/USXAFs-9m7I_00539.jpg 43
+video/test/Frigatebird/USXAFs-9m7I_00931.jpg 43
+video/test/Frigatebird/USXAFs-9m7I_00686.jpg 43
+video/test/Frigatebird/USXAFs-9m7I_00833.jpg 43
+video/test/Frigatebird/USXAFs-9m7I_00588.jpg 43

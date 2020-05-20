@@ -1,0 +1,6 @@
+video/test/Nelson_Sharp_tailed_Sparrow/2-2FdsAMMBs_00006.jpg 125
+video/test/Nelson_Sharp_tailed_Sparrow/2-2FdsAMMBs_00010.jpg 125
+video/test/Nelson_Sharp_tailed_Sparrow/2-2FdsAMMBs_00008.jpg 125
+video/test/Nelson_Sharp_tailed_Sparrow/2-2FdsAMMBs_00000.jpg 125
+video/test/Nelson_Sharp_tailed_Sparrow/2-2FdsAMMBs_00004.jpg 125
+video/test/Nelson_Sharp_tailed_Sparrow/2-2FdsAMMBs_00002.jpg 125

@@ -1,0 +1,17 @@
+video/test/Brewer_Blackbird/iCoLxdcXlGg_01445.jpg 8
+video/test/Brewer_Blackbird/iCoLxdcXlGg_00255.jpg 8
+video/test/Brewer_Blackbird/iCoLxdcXlGg_00765.jpg 8
+video/test/Brewer_Blackbird/iCoLxdcXlGg_00850.jpg 8
+video/test/Brewer_Blackbird/iCoLxdcXlGg_01530.jpg 8
+video/test/Brewer_Blackbird/iCoLxdcXlGg_01190.jpg 8
+video/test/Brewer_Blackbird/iCoLxdcXlGg_01360.jpg 8
+video/test/Brewer_Blackbird/iCoLxdcXlGg_01870.jpg 8
+video/test/Brewer_Blackbird/iCoLxdcXlGg_00085.jpg 8
+video/test/Brewer_Blackbird/iCoLxdcXlGg_00680.jpg 8
+video/test/Brewer_Blackbird/iCoLxdcXlGg_01955.jpg 8
+video/test/Brewer_Blackbird/iCoLxdcXlGg_01700.jpg 8
+video/test/Brewer_Blackbird/iCoLxdcXlGg_02040.jpg 8
+video/test/Brewer_Blackbird/iCoLxdcXlGg_00510.jpg 8
+video/test/Brewer_Blackbird/iCoLxdcXlGg_00425.jpg 8
+video/test/Brewer_Blackbird/iCoLxdcXlGg_01785.jpg 8
+video/test/Brewer_Blackbird/iCoLxdcXlGg_01615.jpg 8

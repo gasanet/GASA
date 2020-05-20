@@ -1,0 +1,17 @@
+video/test/Slaty_backed_Gull/LrfwDINSEv0_00507.jpg 64
+video/test/Slaty_backed_Gull/LrfwDINSEv0_00936.jpg 64
+video/test/Slaty_backed_Gull/LrfwDINSEv0_00741.jpg 64
+video/test/Slaty_backed_Gull/LrfwDINSEv0_00819.jpg 64
+video/test/Slaty_backed_Gull/LrfwDINSEv0_00897.jpg 64
+video/test/Slaty_backed_Gull/LrfwDINSEv0_00390.jpg 64
+video/test/Slaty_backed_Gull/LrfwDINSEv0_00429.jpg 64
+video/test/Slaty_backed_Gull/LrfwDINSEv0_00624.jpg 64
+video/test/Slaty_backed_Gull/LrfwDINSEv0_00468.jpg 64
+video/test/Slaty_backed_Gull/LrfwDINSEv0_00858.jpg 64
+video/test/Slaty_backed_Gull/LrfwDINSEv0_00780.jpg 64
+video/test/Slaty_backed_Gull/LrfwDINSEv0_00351.jpg 64
+video/test/Slaty_backed_Gull/LrfwDINSEv0_00663.jpg 64
+video/test/Slaty_backed_Gull/LrfwDINSEv0_00585.jpg 64
+video/test/Slaty_backed_Gull/LrfwDINSEv0_00702.jpg 64
+video/test/Slaty_backed_Gull/LrfwDINSEv0_00546.jpg 64
+video/test/Slaty_backed_Gull/LrfwDINSEv0_00312.jpg 64

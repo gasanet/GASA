@@ -1,0 +1,12 @@
+video/train/California_Gull/Z1w5Oqr5d64_00265.jpg 58
+video/train/California_Gull/Z1w5Oqr5d64_00371.jpg 58
+video/train/California_Gull/Z1w5Oqr5d64_00636.jpg 58
+video/train/California_Gull/Z1w5Oqr5d64_00159.jpg 58
+video/train/California_Gull/Z1w5Oqr5d64_00583.jpg 58
+video/train/California_Gull/Z1w5Oqr5d64_00530.jpg 58
+video/train/California_Gull/Z1w5Oqr5d64_00053.jpg 58
+video/train/California_Gull/Z1w5Oqr5d64_00424.jpg 58
+video/train/California_Gull/Z1w5Oqr5d64_00106.jpg 58
+video/train/California_Gull/Z1w5Oqr5d64_00742.jpg 58
+video/train/California_Gull/Z1w5Oqr5d64_00689.jpg 58
+video/train/California_Gull/Z1w5Oqr5d64_00212.jpg 58

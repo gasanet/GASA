@@ -1,0 +1,8 @@
+video/train/Brown_Pelican/ljhc2dwqrWw_00080.jpg 99
+video/train/Brown_Pelican/ljhc2dwqrWw_00000.jpg 99
+video/train/Brown_Pelican/ljhc2dwqrWw_00400.jpg 99
+video/train/Brown_Pelican/ljhc2dwqrWw_00160.jpg 99
+video/train/Brown_Pelican/ljhc2dwqrWw_00560.jpg 99
+video/train/Brown_Pelican/ljhc2dwqrWw_00640.jpg 99
+video/train/Brown_Pelican/ljhc2dwqrWw_00480.jpg 99
+video/train/Brown_Pelican/ljhc2dwqrWw_00320.jpg 99

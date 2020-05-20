@@ -1,0 +1,11 @@
+video/test/Pacific_Loon/HvIiTeRHFOM_01008.jpg 85
+video/test/Pacific_Loon/HvIiTeRHFOM_00576.jpg 85
+video/test/Pacific_Loon/HvIiTeRHFOM_00504.jpg 85
+video/test/Pacific_Loon/HvIiTeRHFOM_01656.jpg 85
+video/test/Pacific_Loon/HvIiTeRHFOM_01440.jpg 85
+video/test/Pacific_Loon/HvIiTeRHFOM_00216.jpg 85
+video/test/Pacific_Loon/HvIiTeRHFOM_00936.jpg 85
+video/test/Pacific_Loon/HvIiTeRHFOM_01728.jpg 85
+video/test/Pacific_Loon/HvIiTeRHFOM_00288.jpg 85
+video/test/Pacific_Loon/HvIiTeRHFOM_00720.jpg 85
+video/test/Pacific_Loon/HvIiTeRHFOM_00432.jpg 85

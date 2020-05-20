@@ -1,0 +1,12 @@
+video/test/Artic_Tern/hRzU4YMIdUc_01470.jpg 140
+video/test/Artic_Tern/hRzU4YMIdUc_01050.jpg 140
+video/test/Artic_Tern/hRzU4YMIdUc_00420.jpg 140
+video/test/Artic_Tern/hRzU4YMIdUc_02520.jpg 140
+video/test/Artic_Tern/hRzU4YMIdUc_02100.jpg 140
+video/test/Artic_Tern/hRzU4YMIdUc_03360.jpg 140
+video/test/Artic_Tern/hRzU4YMIdUc_02310.jpg 140
+video/test/Artic_Tern/hRzU4YMIdUc_00210.jpg 140
+video/test/Artic_Tern/hRzU4YMIdUc_01260.jpg 140
+video/test/Artic_Tern/hRzU4YMIdUc_00840.jpg 140
+video/test/Artic_Tern/hRzU4YMIdUc_01890.jpg 140
+video/test/Artic_Tern/hRzU4YMIdUc_01680.jpg 140

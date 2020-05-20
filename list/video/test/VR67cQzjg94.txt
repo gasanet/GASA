@@ -1,0 +1,9 @@
+video/test/Scissor_tailed_Flycatcher/VR67cQzjg94_00305.jpg 40
+video/test/Scissor_tailed_Flycatcher/VR67cQzjg94_01037.jpg 40
+video/test/Scissor_tailed_Flycatcher/VR67cQzjg94_00183.jpg 40
+video/test/Scissor_tailed_Flycatcher/VR67cQzjg94_00122.jpg 40
+video/test/Scissor_tailed_Flycatcher/VR67cQzjg94_00244.jpg 40
+video/test/Scissor_tailed_Flycatcher/VR67cQzjg94_00061.jpg 40
+video/test/Scissor_tailed_Flycatcher/VR67cQzjg94_01098.jpg 40
+video/test/Scissor_tailed_Flycatcher/VR67cQzjg94_01403.jpg 40
+video/test/Scissor_tailed_Flycatcher/VR67cQzjg94_00000.jpg 40

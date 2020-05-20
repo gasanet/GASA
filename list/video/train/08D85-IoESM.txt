@@ -1,0 +1,17 @@
+video/train/Long_tailed_Jaeger/08D85-IoESM_00592.jpg 70
+video/train/Long_tailed_Jaeger/08D85-IoESM_00666.jpg 70
+video/train/Long_tailed_Jaeger/08D85-IoESM_00444.jpg 70
+video/train/Long_tailed_Jaeger/08D85-IoESM_00296.jpg 70
+video/train/Long_tailed_Jaeger/08D85-IoESM_00629.jpg 70
+video/train/Long_tailed_Jaeger/08D85-IoESM_00148.jpg 70
+video/train/Long_tailed_Jaeger/08D85-IoESM_00222.jpg 70
+video/train/Long_tailed_Jaeger/08D85-IoESM_00259.jpg 70
+video/train/Long_tailed_Jaeger/08D85-IoESM_00703.jpg 70
+video/train/Long_tailed_Jaeger/08D85-IoESM_00481.jpg 70
+video/train/Long_tailed_Jaeger/08D85-IoESM_00185.jpg 70
+video/train/Long_tailed_Jaeger/08D85-IoESM_00333.jpg 70
+video/train/Long_tailed_Jaeger/08D85-IoESM_00407.jpg 70
+video/train/Long_tailed_Jaeger/08D85-IoESM_00740.jpg 70
+video/train/Long_tailed_Jaeger/08D85-IoESM_00370.jpg 70
+video/train/Long_tailed_Jaeger/08D85-IoESM_00518.jpg 70
+video/train/Long_tailed_Jaeger/08D85-IoESM_00555.jpg 70

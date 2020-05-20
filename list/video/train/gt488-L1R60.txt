@@ -1,0 +1,2 @@
+video/train/Scissor_tailed_Flycatcher/gt488-L1R60_00529.jpg 40
+video/train/Scissor_tailed_Flycatcher/gt488-L1R60_00506.jpg 40

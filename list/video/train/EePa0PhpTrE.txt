@@ -1,0 +1,13 @@
+video/train/Pelagic_Cormorant/EePa0PhpTrE_00000.jpg 24
+video/train/Pelagic_Cormorant/EePa0PhpTrE_01638.jpg 24
+video/train/Pelagic_Cormorant/EePa0PhpTrE_01001.jpg 24
+video/train/Pelagic_Cormorant/EePa0PhpTrE_00273.jpg 24
+video/train/Pelagic_Cormorant/EePa0PhpTrE_00364.jpg 24
+video/train/Pelagic_Cormorant/EePa0PhpTrE_00091.jpg 24
+video/train/Pelagic_Cormorant/EePa0PhpTrE_01729.jpg 24
+video/train/Pelagic_Cormorant/EePa0PhpTrE_01274.jpg 24
+video/train/Pelagic_Cormorant/EePa0PhpTrE_00546.jpg 24
+video/train/Pelagic_Cormorant/EePa0PhpTrE_01820.jpg 24
+video/train/Pelagic_Cormorant/EePa0PhpTrE_00455.jpg 24
+video/train/Pelagic_Cormorant/EePa0PhpTrE_00637.jpg 24
+video/train/Pelagic_Cormorant/EePa0PhpTrE_01911.jpg 24

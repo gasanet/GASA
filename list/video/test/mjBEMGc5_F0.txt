@@ -1,0 +1,11 @@
+video/test/Ring_billed_Gull/mjBEMGc5_F0_01782.jpg 63
+video/test/Ring_billed_Gull/mjBEMGc5_F0_01539.jpg 63
+video/test/Ring_billed_Gull/mjBEMGc5_F0_00648.jpg 63
+video/test/Ring_billed_Gull/mjBEMGc5_F0_00081.jpg 63
+video/test/Ring_billed_Gull/mjBEMGc5_F0_01863.jpg 63
+video/test/Ring_billed_Gull/mjBEMGc5_F0_00810.jpg 63
+video/test/Ring_billed_Gull/mjBEMGc5_F0_01944.jpg 63
+video/test/Ring_billed_Gull/mjBEMGc5_F0_01620.jpg 63
+video/test/Ring_billed_Gull/mjBEMGc5_F0_01701.jpg 63
+video/test/Ring_billed_Gull/mjBEMGc5_F0_00729.jpg 63
+video/test/Ring_billed_Gull/mjBEMGc5_F0_01458.jpg 63

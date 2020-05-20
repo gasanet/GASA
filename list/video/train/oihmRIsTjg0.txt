@@ -1,0 +1,12 @@
+video/train/Pied_Kingfisher/oihmRIsTjg0_00112.jpg 80
+video/train/Pied_Kingfisher/oihmRIsTjg0_00448.jpg 80
+video/train/Pied_Kingfisher/oihmRIsTjg0_00672.jpg 80
+video/train/Pied_Kingfisher/oihmRIsTjg0_00560.jpg 80
+video/train/Pied_Kingfisher/oihmRIsTjg0_00392.jpg 80
+video/train/Pied_Kingfisher/oihmRIsTjg0_00616.jpg 80
+video/train/Pied_Kingfisher/oihmRIsTjg0_00056.jpg 80
+video/train/Pied_Kingfisher/oihmRIsTjg0_00728.jpg 80
+video/train/Pied_Kingfisher/oihmRIsTjg0_00840.jpg 80
+video/train/Pied_Kingfisher/oihmRIsTjg0_00336.jpg 80
+video/train/Pied_Kingfisher/oihmRIsTjg0_00784.jpg 80
+video/train/Pied_Kingfisher/oihmRIsTjg0_00504.jpg 80

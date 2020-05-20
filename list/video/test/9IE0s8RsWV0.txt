@@ -1,0 +1,14 @@
+video/test/Caspian_Tern/9IE0s8RsWV0_00770.jpg 142
+video/test/Caspian_Tern/9IE0s8RsWV0_00140.jpg 142
+video/test/Caspian_Tern/9IE0s8RsWV0_00210.jpg 142
+video/test/Caspian_Tern/9IE0s8RsWV0_00350.jpg 142
+video/test/Caspian_Tern/9IE0s8RsWV0_00840.jpg 142
+video/test/Caspian_Tern/9IE0s8RsWV0_00490.jpg 142
+video/test/Caspian_Tern/9IE0s8RsWV0_00560.jpg 142
+video/test/Caspian_Tern/9IE0s8RsWV0_00070.jpg 142
+video/test/Caspian_Tern/9IE0s8RsWV0_00630.jpg 142
+video/test/Caspian_Tern/9IE0s8RsWV0_00000.jpg 142
+video/test/Caspian_Tern/9IE0s8RsWV0_00910.jpg 142
+video/test/Caspian_Tern/9IE0s8RsWV0_00280.jpg 142
+video/test/Caspian_Tern/9IE0s8RsWV0_00420.jpg 142
+video/test/Caspian_Tern/9IE0s8RsWV0_00700.jpg 142

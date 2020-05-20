@@ -1,0 +1,9 @@
+video/test/Sooty_Albatross/bGD4J_cxedc_00340.jpg 2
+video/test/Sooty_Albatross/bGD4J_cxedc_00153.jpg 2
+video/test/Sooty_Albatross/bGD4J_cxedc_00017.jpg 2
+video/test/Sooty_Albatross/bGD4J_cxedc_00357.jpg 2
+video/test/Sooty_Albatross/bGD4J_cxedc_00119.jpg 2
+video/test/Sooty_Albatross/bGD4J_cxedc_00085.jpg 2
+video/test/Sooty_Albatross/bGD4J_cxedc_00391.jpg 2
+video/test/Sooty_Albatross/bGD4J_cxedc_00136.jpg 2
+video/test/Sooty_Albatross/bGD4J_cxedc_00408.jpg 2

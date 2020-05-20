@@ -1,0 +1,4 @@
+video/train/Ring_billed_Gull/GgHbb9neuTA_00596.jpg 63
+video/train/Ring_billed_Gull/GgHbb9neuTA_02831.jpg 63
+video/train/Ring_billed_Gull/GgHbb9neuTA_02980.jpg 63
+video/train/Ring_billed_Gull/GgHbb9neuTA_01043.jpg 63

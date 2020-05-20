@@ -1,0 +1,7 @@
+video/test/Acadian_Flycatcher/e_vwTwMdu3w_00874.jpg 36
+video/test/Acadian_Flycatcher/e_vwTwMdu3w_00276.jpg 36
+video/test/Acadian_Flycatcher/e_vwTwMdu3w_01012.jpg 36
+video/test/Acadian_Flycatcher/e_vwTwMdu3w_00552.jpg 36
+video/test/Acadian_Flycatcher/e_vwTwMdu3w_00828.jpg 36
+video/test/Acadian_Flycatcher/e_vwTwMdu3w_00966.jpg 36
+video/test/Acadian_Flycatcher/e_vwTwMdu3w_01104.jpg 36

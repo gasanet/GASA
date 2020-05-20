@@ -1,0 +1,17 @@
+video/train/Pacific_Loon/8n2hXuRRRAQ_00405.jpg 85
+video/train/Pacific_Loon/8n2hXuRRRAQ_00945.jpg 85
+video/train/Pacific_Loon/8n2hXuRRRAQ_00630.jpg 85
+video/train/Pacific_Loon/8n2hXuRRRAQ_00990.jpg 85
+video/train/Pacific_Loon/8n2hXuRRRAQ_00135.jpg 85
+video/train/Pacific_Loon/8n2hXuRRRAQ_00720.jpg 85
+video/train/Pacific_Loon/8n2hXuRRRAQ_00585.jpg 85
+video/train/Pacific_Loon/8n2hXuRRRAQ_00855.jpg 85
+video/train/Pacific_Loon/8n2hXuRRRAQ_00900.jpg 85
+video/train/Pacific_Loon/8n2hXuRRRAQ_00090.jpg 85
+video/train/Pacific_Loon/8n2hXuRRRAQ_00180.jpg 85
+video/train/Pacific_Loon/8n2hXuRRRAQ_00045.jpg 85
+video/train/Pacific_Loon/8n2hXuRRRAQ_00810.jpg 85
+video/train/Pacific_Loon/8n2hXuRRRAQ_00675.jpg 85
+video/train/Pacific_Loon/8n2hXuRRRAQ_00765.jpg 85
+video/train/Pacific_Loon/8n2hXuRRRAQ_01035.jpg 85
+video/train/Pacific_Loon/8n2hXuRRRAQ_01080.jpg 85

@@ -1,0 +1,11 @@
+video/test/Cape_Glossy_Starling/hEBpf-vEIP0_00690.jpg 133
+video/test/Cape_Glossy_Starling/hEBpf-vEIP0_00570.jpg 133
+video/test/Cape_Glossy_Starling/hEBpf-vEIP0_00540.jpg 133
+video/test/Cape_Glossy_Starling/hEBpf-vEIP0_00390.jpg 133
+video/test/Cape_Glossy_Starling/hEBpf-vEIP0_00480.jpg 133
+video/test/Cape_Glossy_Starling/hEBpf-vEIP0_00600.jpg 133
+video/test/Cape_Glossy_Starling/hEBpf-vEIP0_00660.jpg 133
+video/test/Cape_Glossy_Starling/hEBpf-vEIP0_00630.jpg 133
+video/test/Cape_Glossy_Starling/hEBpf-vEIP0_00720.jpg 133
+video/test/Cape_Glossy_Starling/hEBpf-vEIP0_00450.jpg 133
+video/test/Cape_Glossy_Starling/hEBpf-vEIP0_00510.jpg 133

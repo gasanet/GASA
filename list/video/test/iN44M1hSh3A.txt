@@ -1,0 +1,16 @@
+video/test/Rhinoceros_Auklet/iN44M1hSh3A_00032.jpg 7
+video/test/Rhinoceros_Auklet/iN44M1hSh3A_00016.jpg 7
+video/test/Rhinoceros_Auklet/iN44M1hSh3A_00080.jpg 7
+video/test/Rhinoceros_Auklet/iN44M1hSh3A_00160.jpg 7
+video/test/Rhinoceros_Auklet/iN44M1hSh3A_00000.jpg 7
+video/test/Rhinoceros_Auklet/iN44M1hSh3A_00304.jpg 7
+video/test/Rhinoceros_Auklet/iN44M1hSh3A_00256.jpg 7
+video/test/Rhinoceros_Auklet/iN44M1hSh3A_00384.jpg 7
+video/test/Rhinoceros_Auklet/iN44M1hSh3A_00176.jpg 7
+video/test/Rhinoceros_Auklet/iN44M1hSh3A_00240.jpg 7
+video/test/Rhinoceros_Auklet/iN44M1hSh3A_00192.jpg 7
+video/test/Rhinoceros_Auklet/iN44M1hSh3A_00208.jpg 7
+video/test/Rhinoceros_Auklet/iN44M1hSh3A_00144.jpg 7
+video/test/Rhinoceros_Auklet/iN44M1hSh3A_00224.jpg 7
+video/test/Rhinoceros_Auklet/iN44M1hSh3A_00288.jpg 7
+video/test/Rhinoceros_Auklet/iN44M1hSh3A_00272.jpg 7

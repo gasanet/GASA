@@ -1,0 +1,8 @@
+video/test/Slaty_backed_Gull/7pCsyDA2yCA_00248.jpg 64
+video/test/Slaty_backed_Gull/7pCsyDA2yCA_00000.jpg 64
+video/test/Slaty_backed_Gull/7pCsyDA2yCA_00372.jpg 64
+video/test/Slaty_backed_Gull/7pCsyDA2yCA_00062.jpg 64
+video/test/Slaty_backed_Gull/7pCsyDA2yCA_00124.jpg 64
+video/test/Slaty_backed_Gull/7pCsyDA2yCA_00186.jpg 64
+video/test/Slaty_backed_Gull/7pCsyDA2yCA_00434.jpg 64
+video/test/Slaty_backed_Gull/7pCsyDA2yCA_00310.jpg 64

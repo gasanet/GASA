@@ -1,0 +1,11 @@
+video/test/Frigatebird/-W1Rf2pI2SA_02500.jpg 43
+video/test/Frigatebird/-W1Rf2pI2SA_02250.jpg 43
+video/test/Frigatebird/-W1Rf2pI2SA_00875.jpg 43
+video/test/Frigatebird/-W1Rf2pI2SA_02125.jpg 43
+video/test/Frigatebird/-W1Rf2pI2SA_00250.jpg 43
+video/test/Frigatebird/-W1Rf2pI2SA_01000.jpg 43
+video/test/Frigatebird/-W1Rf2pI2SA_02750.jpg 43
+video/test/Frigatebird/-W1Rf2pI2SA_03000.jpg 43
+video/test/Frigatebird/-W1Rf2pI2SA_00000.jpg 43
+video/test/Frigatebird/-W1Rf2pI2SA_02375.jpg 43
+video/test/Frigatebird/-W1Rf2pI2SA_02625.jpg 43
