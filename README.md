@@ -15,9 +15,9 @@ Please wait, I will upload later.
 python audio.py
 * **Training**  
   * If you want to train the whole model from beginning using the source code, please follow the subsequent steps.
-   * Download dataset to the ```dataset``` folder.
-   * In ```main_gan_lstm_resnet.py```  
-   * Modify ```lr in params1``` to ```0.001```, ```lr in params2``` and ```lr in discriminator``` to ```1```.  
+    * Download dataset to the ```dataset``` folder.
+    * In ```main_gan_lstm_resnet.py```  
+    * Modify ```lr in params1``` to ```0.001```, ```lr in params2``` and ```lr in discriminator``` to ```1```.  
 * **Testing**  
 python test_gan.py
 
