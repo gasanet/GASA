@@ -1,4 +1,3 @@
-# Generative Adversarial and Self Attention Based Fine-Grained Cross-Modal Retrieval
 # Introduction
 source code for our paper GASAnet: **Generative Adversarial and Self Attention Based Fine-Grained Cross-Modal Retrieval**
 # Network Architecture
