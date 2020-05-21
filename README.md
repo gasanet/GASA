@@ -14,7 +14,11 @@ Please wait, I will upload later.
 * **Prepare audio data**  
 python audio.py
 * **Training**  
-python main_gan_lstm_resnet.py
+  * If you want to train the whole model from beginning using the source code, please follow the subsequent steps.
+  * In ```main_gan_lstm_resnet.py```
+  
+    
+
 * **Testing**  
 python test_gan.py
 
