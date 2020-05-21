@@ -1,20 +1,20 @@
-# Introduction
+## Introduction
 source code for our paper GASAnet: **Generative Adversarial and Self Attention Based Fine-Grained Cross-Modal Retrieval**
-# Network Architecture
+## Network Architecture
 ![](https://github.com/gasanet/GASA/blob/master/gan.jpg)
-# Installation
+## Installation
 **requirement**
 1.pytorch, tested on [v1.0]
 2.CUDA, tested on v9.0
 3.Language: Python 3.6
-# How to use
+## How to use
 The code is currently tested only on GPU.
-## *Download dataset
+### * Download dataset
 Please wait, I will upload later.
-## *Prepare audio data
+### * Prepare audio data
 python audio.py
-## *Training
+### * Training
 python main_gan_lstm_resnet.py
-## *Testing
+### * Testing
 python test_gan.py
 
