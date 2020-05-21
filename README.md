@@ -24,6 +24,6 @@ python audio.py
 * **Testing**  
    * If you just want to do a quick test on the model and check the final retrieval performance, please follow the subsequent steps.
       * The trained models of our work can be downloaded from [Baidu Could](https://pan.baidu.com/s/1ZiXq4nLhaD6vpOpTmSn_xA), and the extraction code is v99c.
-      * Activate virtual environment (e.g. conda) and then run the script
-  ```python test_gan.py```
+      * Activate virtual environment (e.g. conda) and then run the script  
+      ```python test_gan.py```
 
