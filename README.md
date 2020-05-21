@@ -9,12 +9,12 @@ source code for our paper GASAnet: **Generative Adversarial and Self Attention B
 3.Language: Python 3.6
 ## How to use
 The code is currently tested only on GPU.
-### * Download dataset
+* Download dataset
 Please wait, I will upload later.
-### * Prepare audio data
+* Prepare audio data
 python audio.py
-### * Training
+* Training
 python main_gan_lstm_resnet.py
-### * Testing
+* Testing
 python test_gan.py
 
