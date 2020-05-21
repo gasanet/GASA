@@ -18,6 +18,8 @@ python audio.py
     * Download dataset to the ```dataset``` folder.
     * In ```main_gan_lstm_resnet.py```  
     * Modify ```lr in params1``` to ```0.001```, ```lr in params2``` and ```lr in discriminator``` to ```1```.  
+    * Activate virtual environment (e.g. conda) and then run the script  
+    ```python main_gan_lstm_resnet.py```
 * **Testing**  
 python test_gan.py
 
