@@ -10,7 +10,7 @@ source code for our paper GASAnet: **Generative Adversarial and Self Attention B
 ## How to use
 The code is currently tested only on GPU.
 * **Download dataset**  
-Please visit [dataset] (http://59.108.48.34/tiki/FGCrossNet/).[我的博客](http://blog.csdn.net/guodongxiaren)
+Please visit [dataset] (http://59.108.48.34/tiki/FGCrossNet/).
 * **Prepare audio data**  
 python audio.py
 * **Training**  
